@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 544024a8465dbef439c9c7964a55b379
+timeCreated: 1522994845
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - laserBullet: {fileID: 1995119270682834, guid: b455dfe8894b98747b8856a5a1fe5a48,
+      type: 2}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
